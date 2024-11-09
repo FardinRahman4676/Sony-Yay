@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="HINDI" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", HINDI
 http://xtv.ooo:8080//live/874246786/743567899/26187.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="BANGLA" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", BANGLA
-https://toffee.iptvbd.xyz/api/sony_yay.m3u8
