@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="HINDI" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", HINDI
 http://xtv.ooo:8080//live/874246786/743567899/26187.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Bangla" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Bangla
+https://mdfardin857875557.github.io/Sony-Yay-IP-TV/Play.m3u8
